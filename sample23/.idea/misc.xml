@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidSamples/sample23/app/src/main/res/layout/activity_flagment_menu.xml" value="0.1" />
+        <entry key="..\:/AndroidSamples/sample23/app/src/main/res/layout/activity_main.xml" value="0.3645833333333333" />
+        <entry key="..\:/AndroidSamples/sample23/app/src/main/res/layout/layout_fragment_menu.xml" value="0.3645833333333333" />
+        <entry key="..\:/AndroidSamples/sample23/app/src/main/res/layout/layout_fragment_one.xml" value="0.3645833333333333" />
+        <entry key="..\:/AndroidSamples/sample23/app/src/main/res/layout/layout_fragment_one2.xml" value="0.1" />
+        <entry key="..\:/AndroidSamples/sample23/app/src/main/res/layout/layout_fragment_three.xml" value="0.3645833333333333" />
+        <entry key="..\:/AndroidSamples/sample23/app/src/main/res/layout/layout_fragment_two.xml" value="0.3329248366013072" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

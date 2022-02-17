@@ -1,0 +1,25 @@
+sample 19 ScrollView
+sample 20 GirdView
+sample 21 VideoView
+sample 22 WebView
+sample 23 Fragment
+sample 24 Navigation
+sample 25 SeekBar
+sample 26 RatingBar
+sample 27 ImageButton
+sample 28 캘린더,버튼많을때
+sample 29 TimePicker
+sample 30 RecyclerView DTO 어트로뷰트 화면이동 게시판
+sample 31 File read write clear id,pw
+sample 32 Json
+sample 33 어트로뷰트 화면전환 read write
+sample 34 Intent parsel 화면전환
+	ㄴ Intetn는 object를 못넘긴다(DTO같은) Parsel로 변환후 넘길 수 있다
+sample 35 singleton 화면전환 
+sample 36 SQLLIte
+sample 37 Intent 동적Button for버튼 많은버튼
+
+Intent  = 어트로뷰트
+
+Member -> DB에서 autoincrement 는 자동증가 (SEQ)
+11
