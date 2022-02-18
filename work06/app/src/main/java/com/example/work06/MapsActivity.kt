@@ -65,6 +65,7 @@ class MapsActivity(val activity:Activity) : Fragment(), OnMapReadyCallback {
     override fun onMapReady(googleMap: GoogleMap) {
         mMap = googleMap
         fusedLocationClient = LocationServices.getFusedLocationProviderClient(activity)
+        setLocation(detail.lat,detail.lon)
     }
 
 
@@ -72,6 +73,7 @@ class MapsActivity(val activity:Activity) : Fragment(), OnMapReadyCallback {
 
     fun setLocation(latitude:Double,longitude:Double){
         if (latitude != 0.0 || longitude != 0.0) {
+
             println("---------------" + latitude)
             println("---------------" + longitude)
             val LATLNG = LatLng(latitude, longitude)

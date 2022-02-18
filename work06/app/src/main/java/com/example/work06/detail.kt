@@ -16,6 +16,10 @@ import java.io.File
 import java.io.IOException
 
 class detail : AppCompatActivity() {
+    companion object{
+        var lat:Double = 0.0
+        var lon:Double = 0.0
+    }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
@@ -47,8 +51,7 @@ class detail : AppCompatActivity() {
         val str = address.text.toString()
 
         val geocoder:Geocoder = Geocoder(this)
-        var lat:Double = 0.0
-        var lon:Double = 0.0
+
 
         try {
             list = geocoder.getFromLocationName(str,10)
@@ -61,7 +64,7 @@ class detail : AppCompatActivity() {
                 lat = list.get(0).latitude
                 lon = list.get(0).longitude
 
-                maps.setLocation(lat,lon)
+//                maps.setLocation(lat,lon)
             }
         }
 

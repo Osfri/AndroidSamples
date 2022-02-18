@@ -33,7 +33,7 @@ class ItemViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView){
     fun bind(dataVO: VO,context: Context){
         val file:File = File(dataVO.imgaddr)
         if (file.exists()) run {
-            val bitmap: Bitmap = BitmapFactory.decodeFile(file.absolutePath)
+            val bitmap = BitmapFactory.decodeFile(file.absolutePath)
             img.setImageBitmap(bitmap)
         }
 
