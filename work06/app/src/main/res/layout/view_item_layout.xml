@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:layout_margin="5dp" >
+
+    <ImageView
+            android:layout_width="60dp"
+            android:layout_height="57dp" tools:srcCompat="@tools:sample/avatars" android:id="@+id/view_img"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.007" app:layout_constraintVertical_bias="0.538"/>
+    <TextView
+            android:text="title"
+            android:layout_width="218dp"
+             app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_height="22dp" android:id="@+id/view_title"
+            app:layout_constraintHorizontal_bias="0.196" app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.145"/>
+    <TextView
+            android:text="Date"
+            android:layout_width="218dp"
+             app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_height="22dp" android:id="@+id/view_date"
+            app:layout_constraintHorizontal_bias="0.838" app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.145"/>
+    <TextView
+            android:text="address"
+            android:layout_width="520dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_height="30dp" android:id="@+id/view_address"
+            app:layout_constraintHorizontal_bias="1.0" app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.85"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
