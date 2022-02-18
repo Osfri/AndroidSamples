@@ -10,7 +10,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/MyApplication" />
-            <option value="$PROJECT_DIR$/MyApplication/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -21,7 +20,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample01" />
-            <option value="$PROJECT_DIR$/sample01/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -32,7 +30,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample02" />
-            <option value="$PROJECT_DIR$/sample02/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -43,7 +40,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample03" />
-            <option value="$PROJECT_DIR$/sample03/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -54,7 +50,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample04" />
-            <option value="$PROJECT_DIR$/sample04/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -65,7 +60,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample06" />
-            <option value="$PROJECT_DIR$/sample06/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -76,7 +70,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample07" />
-            <option value="$PROJECT_DIR$/sample07/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -87,7 +80,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample08" />
-            <option value="$PROJECT_DIR$/sample08/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -98,7 +90,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample09" />
-            <option value="$PROJECT_DIR$/sample09/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -109,7 +100,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample10" />
-            <option value="$PROJECT_DIR$/sample10/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -120,7 +110,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample11" />
-            <option value="$PROJECT_DIR$/sample11/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -131,7 +120,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample12" />
-            <option value="$PROJECT_DIR$/sample12/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -142,7 +130,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample13" />
-            <option value="$PROJECT_DIR$/sample13/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -153,7 +140,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample14" />
-            <option value="$PROJECT_DIR$/sample14/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -164,7 +150,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample15" />
-            <option value="$PROJECT_DIR$/sample15/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -175,7 +160,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample16" />
-            <option value="$PROJECT_DIR$/sample16/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -186,7 +170,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample17" />
-            <option value="$PROJECT_DIR$/sample17/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -197,7 +180,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample19 ScrollView" />
-            <option value="$PROJECT_DIR$/sample19 ScrollView/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -208,7 +190,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample20 GridView" />
-            <option value="$PROJECT_DIR$/sample20 GridView/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -219,7 +200,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample21 VideoView" />
-            <option value="$PROJECT_DIR$/sample21 VideoView/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -230,7 +210,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample22 WebView" />
-            <option value="$PROJECT_DIR$/sample22 WebView/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -241,7 +220,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample23 Fragment" />
-            <option value="$PROJECT_DIR$/sample23 Fragment/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -252,7 +230,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample24 navigation" />
-            <option value="$PROJECT_DIR$/sample24 navigation/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -263,7 +240,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample25 SeekBar" />
-            <option value="$PROJECT_DIR$/sample25 SeekBar/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -274,7 +250,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample26 RatingBar" />
-            <option value="$PROJECT_DIR$/sample26 RatingBar/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -285,7 +260,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample27 ImageButton" />
-            <option value="$PROJECT_DIR$/sample27 ImageButton/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -306,7 +280,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample29 TimePicker" />
-            <option value="$PROJECT_DIR$/sample29 TimePicker/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -327,7 +300,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample31 File read write clear id,pw" />
-            <option value="$PROJECT_DIR$/sample31 File read write clear id,pw/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -338,7 +310,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample32 Json" />
-            <option value="$PROJECT_DIR$/sample32 Json/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -379,7 +350,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sample36 SQLLite" />
-            <option value="$PROJECT_DIR$/sample36 SQLLite/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -400,7 +370,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/smaple05" />
-            <option value="$PROJECT_DIR$/smaple05/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -411,7 +380,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/work01" />
-            <option value="$PROJECT_DIR$/work01/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -422,7 +390,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/work012" />
-            <option value="$PROJECT_DIR$/work012/app" />
           </set>
         </option>
       </GradleProjectSettings>
